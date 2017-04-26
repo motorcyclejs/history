@@ -7,6 +7,8 @@ Built on top of the [prehistoric](https://github.com/TylorS/prehistoric) library
 
 Built with the lovely TypeScript! :fire:
 
+**DEPRECATED!** Please use [the newer Motorcycle.js](https://github.com/motorcyclejs/motorcyclejs)
+
 ## Let me have it!
 ```sh
 npm install --save @motorcycle/history
